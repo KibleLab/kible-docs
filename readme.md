@@ -23,3 +23,13 @@
 > <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" /> <br /> https://www.figma.com/files/project/25258058
 
 > <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"> <br /> https://trello.com/w/kible__
+
+### External Links (Legacy)
+
+> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+>
+> > kible-pos-react<br/> https://github.com/KibleLab/kible-pos-react
+>
+> > kible-mobile-react <br/> https://github.com/KibleLab/kible-mobile-react
+>
+> > kible-api-express <br/> https://github.com/KibleLab/kible-api-express
